@@ -1,6 +1,7 @@
 import React from "react";
 
-import avatarImage from "../../images/image.png";
+import avatarImage from "../../assets/images/image.png";
+import "./Avatar.css";
 
 function Avatar(){
     return (

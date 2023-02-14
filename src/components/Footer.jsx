@@ -1,5 +1,6 @@
 import React from "react";
 import Social from "./Social";
+import "./Footer.css";
 import { faTwitter, faFacebookF, faInstagram, faGithub } from "@fortawesome/free-brands-svg-icons";
 
 function Footer(){

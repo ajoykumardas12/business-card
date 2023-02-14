@@ -5,7 +5,9 @@ function ContactButton(props) {
     return ( 
         <button className={props.className}>
             <FontAwesomeIcon icon={props.icon} />
-            {props.buttonName}
+            <div>
+                {props.buttonName}
+            </div>
         </button>
     );
 }

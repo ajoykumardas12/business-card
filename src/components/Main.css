@@ -1,11 +1,6 @@
-.avatarImg{
-    width: 20rem;
-    height: 20rem;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-.email{
-    background: #D1D5DB;
-}
-.linkedIn{
-    background: #5093E2;
+.main{
+    background: #1A1B21;
+    font-family: 'Inter', sans-serif;
 }
